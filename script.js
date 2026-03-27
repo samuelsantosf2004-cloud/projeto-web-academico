@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-  alert("Site funcionando corretamente!");
+  alert("Bem-vindo ao meu projeto web acadêmico!");
 }
