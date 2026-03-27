@@ -1,17 +1,19 @@
 body {
   font-family: Arial;
   text-align: center;
-  background-color: #eaeaea;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
 }
 
 h1 {
-  color: #333;
+  margin-top: 50px;
 }
 
 button {
-  padding: 10px;
-  background-color: green;
+  padding: 12px 20px;
+  background-color: #222;
   color: white;
   border: none;
+  border-radius: 8px;
   cursor: pointer;
-}
+  }
